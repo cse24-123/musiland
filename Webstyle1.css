@@ -1,0 +1,73 @@
+
+body {
+    font-family: arial, sans-serif;
+    background-color: rgb(69, 66, 49);
+    margin: 0;
+    padding: 0;
+}
+    
+h1 {
+    color: rgb(210, 11, 11);
+    margin: 16;
+    padding: 0;
+    font-family: serif;
+}
+.banner {
+  background-color: rgb(90, 178, 250);
+  color: rgb(90, 178, 250);
+  padding: 60px 20px;
+  text-align: left;
+  background-image: url('Musiland_Banner.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  font-size: 4em;
+  margin-bottom: 0px;
+  margin-top: 5px;
+
+}
+
+h2.zero {
+    background-color: rgb(210, 11, 11);
+    margin: 0;
+    padding-left: 20px;   
+}
+h2.one {
+    text-indent: 8%;
+    font-size: 38px ;
+}
+
+a{
+    color: rgb(5, 4, 20);
+    text-decoration: none;
+}
+
+.fade-line {
+  border: none;
+  height: 2px; /* Line thickness */
+  background: linear-gradient(to right, transparent 1%, #050414 10%, #050414 50%, transparent 99%);
+  margin: 10px 0;
+}
+
+div.text{
+    padding: 5%;
+    background-color: white;
+    margin: 5%;
+    margin-top: 0%;
+}
+
+h3{
+    margin-left: 4%;
+    height: 0px;
+    color: lch(73.99% 11.4 293.05);
+    font-size: 38;
+}
+
+p{
+    margin: 2%;
+}
+
+
+
